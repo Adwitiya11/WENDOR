@@ -20,10 +20,10 @@ int solenoid1Time = 3000; // 3 second
 int solenoid2Time = 3000; // 3 second
 
 // Define TFT display pins
-const int TFT_SCLK = 17;
-const int TFT_SDA = 23;
-const int TFT_RESET = 4;
-const int TFT_DC = 5;
+ int TFT_SCLK = 17;
+ int TFT_SDA = 23;
+ int TFT_RESET = 4;
+ int TFT_DC = 5;
 
 TFT_eSPI tft = TFT_eSPI();
 
