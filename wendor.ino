@@ -13,9 +13,9 @@ int sensorPin = 34; // optical sensor
 int relay7Pin = 12; // Heater
 int pushbutton1Pin = 35; // Push button 1 
 int pushbutton2Pin = 32; // Push button 2
-const int levelSensor1Pin = 25; // Level sensor 1
-const int levelSensor2Pin = 26; // Level sensor 2
-const int levelSensor3Pin = 27; // Level sensor 3
+int levelSensor1Pin = 25; // Level sensor 1
+int levelSensor2Pin = 26; // Level sensor 2
+int levelSensor3Pin = 27; // Level sensor 3
 
 // Variables to store button states
 int button1State = 0;
