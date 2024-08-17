@@ -6,7 +6,7 @@
 int relay1Pin = 22; // Solenoid valve 1
 int relay5Pin = 18;//dc motor 1 for mixing of milk and sugar
 int relay2Pin = 23; // Solenoid valve 2
-int relay6Pin = 20;//dc motor 2 for mixing of coffee and water
+int relay6Pin = 14;//dc motor 2 for mixing of coffee and water
 int relay3Pin = 21; // DC motor
 int relay4Pin = 19; // Solenoid valve 3
 int sensorPin = 34; // optical sensor
